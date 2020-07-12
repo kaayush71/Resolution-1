@@ -10,5 +10,5 @@ My name is <b>Aayush Kumar.</b> I'm a aspiring Software Engineer and fond of (al
 
 🕵 Take a look at my repositories and let's get in touch!
 <p align="center">
-<img style="width:16px height:16px" src="https://github.com/Resolution-1/Resolution-1/blob/master/icons/instagram.png">
+<img width="16" height="16" src="https://github.com/Resolution-1/Resolution-1/blob/master/icons/instagram.png">
 </p>
