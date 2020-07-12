@@ -9,3 +9,6 @@ My name is <b>Aayush Kumar.</b> I'm a aspiring Software Engineer and fond of (al
 - Let's connect on [Linkedin](https://www.linkedin.com/in/aayush-kumar-738769195/)
 
 🕵 Take a look at my repositories and let's get in touch!
+<p align="center">
+![alt-text](https://github.com/Resolution-1/Resolution-1/blob/master/icons/instagram.png)
+</p>
