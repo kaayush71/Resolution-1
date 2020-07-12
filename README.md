@@ -11,9 +11,10 @@ My name is <b>Aayush Kumar.</b> I'm a aspiring Software Engineer and fond of (al
 🕵 Take a look at my repositories and let's get in touch!
 <br>
 <p align="left" margin="10px"
-<a margin-right="20px" href="https://www.instagram.com/iam_m1racle/"><img width="32" height="32" src="https://github.com/Resolution-1/Resolution-1/blob/master/icons/instagram.png"></a>
+<a href="https://www.instagram.com/iam_m1racle/"><img width="32" height="32" src="https://github.com/Resolution-1/Resolution-1/blob/master/icons/instagram.png"></a>
 <a href="https://www.linkedin.com/in/aayush-kumar-738769195/"><img width="32" height="32" src="https://github.com/Resolution-1/Resolution-1/blob/master/icons/linkedin.png"></a>
 <a href="https://twitter.com/Aayush01984851"><img width="32" height="32" src="https://github.com/Resolution-1/Resolution-1/blob/master/icons/twitter.png"></a>
-<a href="https://stackoverflow.com/users/12914387/aayush-kumar"><img width="32" height="32" src="https://github.com/Resolution-1/Resolution-1/blob/master/icons/stackoverflow.png"></a></p>
+<a href="https://stackoverflow.com/users/12914387/aayush-kumar"><img width="32" height="32" src="https://github.com/Resolution-1/Resolution-1/blob/master/icons/stackoverflow.png"></a>
+</p>
 
 
