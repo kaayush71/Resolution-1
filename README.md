@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aayush Kumar</h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/aayush-kumar-738769195/">
-    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
+    <img src="https://img.shields.io/badge/linkedin-aayush-blue">
   </a>
   
   <a href="https://www.instagram.com/iam_m1racle/">
-    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
+    <img src="https://img.shields.io/badge/instagram-aayush-red">
   </a>
 </p>
 
