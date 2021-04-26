@@ -17,12 +17,12 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **vKarma Webapp**
-- 🌱 I’m currently learning ... **Django and React.js**
+- 🔭 I’m currently working on **Chat App**
+- 🌱 I’m currently learning ... **Flutter And Redux**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Anime**❤
-- 📫 How to reach me **sachinverma53121@gmail.com**
+- ⚡ Fun fact ... **Love E-sports**❤
+- 📫 How to reach me **kaayush.ak71@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
