@@ -68,10 +68,15 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
-<div><p>My overview: </p></div>
+### ⚙️ &nbsp;GitHub Analytics
 
-![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=Resolution-1&show_icons=true)
-<br />
+<p align="center">
+<a href="https://github.com/parasg1999">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Resolution-1&layout=compact&hide=html&langs_count=5&theme=algolia&hide_border=true"/>&nbsp;
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Resolution-1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=en&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Resolution-1&theme=algolia&hide_border=true" alt="streak-parasg1999" />
+</a>
+</p>
 
 <p align="center">
 <a href=https://codepen.io/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="sachuverma" height="40" width="40" /></a>
