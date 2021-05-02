@@ -71,6 +71,6 @@
 
 
 
-⭐️ From [Aayush Kumar](https://github.com/sachinverma53121) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
+⭐️ From [Aayush Kumar](https://github.com/Resolution-1) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
 
 
