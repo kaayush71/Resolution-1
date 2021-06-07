@@ -17,7 +17,7 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **News App**
 - 🌱 I’m currently learning ... **Flutter And Redux**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
